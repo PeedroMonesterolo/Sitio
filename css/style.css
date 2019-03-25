@@ -861,7 +861,7 @@ header {
 }
 
 .number i {
-    color: #ff1a00;
+    color:rgba(255, 255, 255, 0.70);;
     font-size: 36px;
     margin-bottom: 20px;
 }

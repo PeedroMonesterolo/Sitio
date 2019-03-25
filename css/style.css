@@ -100,6 +100,13 @@ a:hover, a:focus {
 
 .white-text {
     color: #FFF;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 100 !important;
+}
+
+.grey-text{
+    color: #a5a5a5;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 ::-moz-selection {
@@ -131,7 +138,6 @@ ul, ol {
 
 .sm-padding {
     padding-top: 25px;
-    /*padding-bottom: 60px;*/
 }
 
 
@@ -853,9 +859,8 @@ header {
 }
 
 .number i {
-    color: #ff1a00;
-    font-size: 36px;
-    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 50px;
 }
 
 .number h3 {
